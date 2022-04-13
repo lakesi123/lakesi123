@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakesi123
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c#
+- 👀 I’m a Web Developer 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on building software
 - 📫 How to reach me w.samuel95@yahoo.com
 
